@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "manifest_schema": 1,
+    "version": "1.0.0",
+    "sequence": 1,
+    "filename": "AI협업스튜디오_v1.0.0_seq1.zip",
+    "sha256": "70ebdee1f91eff2ef8425043e090bd24f5a7c053de09c868201024b4d4d440c2",
+    "size": 8887094,
+    "python_tag": "cp39",
+    "db_schema_from": 1,
+    "db_schema_to": 1,
+    "enforce": true,
+    "created": "2026-07-19T17:48:07"
+  },
+  "signature": "2de6077588a96625a4d0979c8602c063a5492711ae8c3f0892859be09aac9ebe7033cf80b53ee04ac80bdc3707acb6b67236091ca626d386248df53a60969307"
+}
