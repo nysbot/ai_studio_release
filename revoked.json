@@ -1,0 +1,10 @@
+{
+  "list": {
+    "revoked": [
+      "K-X"
+    ],
+    "issued": "2026-07-20",
+    "serial": 9
+  },
+  "signature": "7631d5d0699ada13565107bf3e7be917461e49d365ed286e29717c7b1ea09a637ba2464c932dc5aff5ba2da17e8158baca1f9c6f1916a9649a9e72652d66c606"
+}
