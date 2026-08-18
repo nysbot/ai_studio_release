@@ -2,15 +2,15 @@
   "manifest": {
     "manifest_schema": 1,
     "version": "1.2.0",
-    "sequence": 93,
-    "filename": "AI협업스튜디오_v1.2.0_seq93.zip",
-    "sha256": "61336cafa9eebf52960705badf34aa93135ea5240a81929e8de835782818c5af",
-    "size": 9253877,
+    "sequence": 94,
+    "filename": "AI협업스튜디오_v1.2.0_seq94.zip",
+    "sha256": "18940877b78ad164cdd6a733c853672ffcbdf69363fa09e4c4132710bab484ab",
+    "size": 9253844,
     "python_tag": "cp39",
     "db_schema_from": 1,
     "db_schema_to": 1,
     "enforce": true,
-    "created": "2026-08-18T18:18:26"
+    "created": "2026-08-18T18:18:44"
   },
-  "signature": "d18b9c1394f319634241d92e02eec173db91dcf39561c1431ba70cf9a5d33514c8ac5362adbfdad70195eb93093253e13dcb56002c5cd72d93ea3b86017dda0c"
+  "signature": "f7e662d4dc75822d19c2305cf9ae714e87fc8dc8a38ed338003e12788d0b65d993dab73d769848dd0ac0ecfbc0d4e0d0afc99f44092668e691583e7e1686ce0b"
 }
